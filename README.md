@@ -6,8 +6,10 @@
 
 ## Features
 **1. Page Navigation**
-  - Pages: There are two main pages: the Home page and the Search page.
-  - Scroll View: Both pages feature scrollable content, allowing users to swipe down to explore more items.
+  - *Pages:* There are two main pages: the Home page and the Search page.
+  - *Scroll View:* Both pages feature scrollable content, allowing users to swipe down to explore more items.
+    ![image](https://github.com/user-attachments/assets/5218c7b2-fd94-4803-8884-34a176c768b5)
+
 
 **2. Interactive Buttons**
   - *Playlist Buttons: On the Home page, there are four interactive buttons representing playlists:*
@@ -19,6 +21,8 @@
       
   - *Functionality:* Each button opens a playlist view, displaying a list of songs that users can scroll through. The top left back button returns to the Home page.
   - *Animations:* Button interactions and scrolling animations use the ease in - out effect, adding smooth transitions.
+    ![image](https://github.com/user-attachments/assets/41445893-dc96-40aa-8da0-667f47f316d7)
+
 
 **3. Tab View**
 
@@ -28,6 +32,8 @@
 **4. User Settings Sheet**
   - *Sheet Feature:* Tapping on the profile picture on the Home page opens a sheet displaying user settings.
   - *Exit Option:* Users can exit the sheet by pressing the “X” button in the top right corner.
+    ![image](https://github.com/user-attachments/assets/1e6eaf34-add0-419c-951f-21bf125d9bcd)
+
 
 **5. Custom App Icon**
   - A custom icon has been set for the app, giving it a unique look in the app launcher.
